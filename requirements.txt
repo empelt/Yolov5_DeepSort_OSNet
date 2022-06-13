@@ -35,3 +35,8 @@ flake8
 yapf
 isort==4.3.21
 imageio
+
+# additional
+numpy
+opencv-python
+opencv-contrib-python
